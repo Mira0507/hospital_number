@@ -1,0 +1,41 @@
+link: https://healthdata.gov/dataset/structural-measures-hospital
+===================
+
+Structural Measures - Hospital
+A list of hospitals and the structural measures they report. A structural measure reflects the environment in which hospitals care for patients, for example, whether or not a hospital participates in a Cardiac Surgery Registry or uses a safe surgery checklist.
+
+Source: data.medicare.gov
+Data and Resources
+csvcsv
+rdfrdf
+jsonjson
+xslxsl
+hospital comparestructural measuresqualityratingscardiacheartsurgerygeneral information
+Field	Value
+Field	Value
+Publisher	
+Centers for Medicare & Medicaid Services
+Modified	
+2020-01-29
+Release Date	
+2020-01-29
+Homepage URL	
+https://data.medicare.gov/d/4hje-vua3
+Identifier	
+https://data.medicare.gov/api/views/4hje-vua3
+License	
+http://opendefinition.org/licenses/odc-odbl/
+Contact Name	
+Hospital Compare
+Public Access Level	
+Public
+POD Theme	
+Hospital Compare
+Bureau Code	
+009:38 - Centers for Medicare and Medicaid Services
+Program Code	
+009:000 - Department of Health and Human Services - (Primary Program Not Available)
+Harvested from data.medicare.gov
+Harvest Source Title	data.medicare.gov
+Harvest Source URI	https://data.medicare.gov/data.json
+Last Harvest Performed	Fri, 04/10/2020 - 02:45

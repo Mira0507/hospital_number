@@ -1,0 +1,6 @@
+<State Population Totals and Components of Change: 2010-2019>
+
+data: Population Change and Rankings: April 1, 2010 to July 1, 2019 (NST-EST2019-popchg2010-2019)
+
+link: https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html#par_textimage_1574439295
+
